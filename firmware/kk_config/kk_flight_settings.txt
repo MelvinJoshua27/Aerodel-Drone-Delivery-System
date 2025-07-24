@@ -1,0 +1,7 @@
+Flight Mode: Acro
+Motor Layout: X-Configuration
+Gyro Gain: 50%
+Yaw Rate: 100%
+Roll/Pitch Rate: 50%
+Failsafe: Enabled (throttle to 10%)
+ESC Calibration: Done
