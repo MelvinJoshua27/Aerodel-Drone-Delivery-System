@@ -18,7 +18,6 @@ A lightweight delivery drone prototype capable of carrying a **500 g payload**. 
 ## Tech Stack
 - **Hardware:** ESP32, Ultrasonic sensors, LiPo battery, Flight controller (KK 2.1.5 or similar)  
 - **Firmware:** ESP-IDF, Embedded C, FreeRTOS  
-- **Communication Protocols:** UART, I2C (if used)  
 - **Tools:** Git/GitHub, Markdown documentation  
 
 ---
