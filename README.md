@@ -41,10 +41,10 @@ In controlled flight tests:
 ---
 
 ## Folder Structure
-- hardware/ – Schematics, components list, wiring diagrams
-- firmware/ – Source code for sensors, failsafe logic, GPS integration
-- docs/ – Documentation, setup instructions, testing results
-- media/ – Photos and demo footage of the prototype in action
+- `hardware/` – Schematics, components list, wiring diagrams
+- `firmware/` – Source code for sensors, failsafe logic, GPS integration
+- `docs/` – Documentation, setup instructions, testing results
+- `media/` – Photos and demo footage of the prototype in action
 
 ---
 
