@@ -32,28 +32,26 @@ A lightweight delivery drone prototype capable of carrying a **500 g payload**. 
 3. Follow hardware schematics to assemble the drone.
 4. Flash firmware onto your ESP32 using ESP-IDF.
 5. Power up the drone and conduct short-range test flights in controlled environments.
+---
 
 ## Results
 In controlled flight tests:
+- Navigation accuracy improved by 25%
+- Failsafe mechanism activated successfully, significantly reducing crash incidents
 
-Navigation accuracy improved by 25%
+---
 
-Failsafe mechanism activated successfully, significantly reducing crash incidents
+## Folder Structure
+- hardware/ – Schematics, components list, wiring diagrams
+- firmware/ – Source code for sensors, failsafe logic, GPS integration
+- docs/ – Documentation, setup instructions, testing results
+- media/ – Photos and demo footage of the prototype in action
 
-Folder Structure
-hardware/ – Schematics, components list, wiring diagrams
+---
 
-firmware/ – Source code for sensors, failsafe logic, GPS integration
-
-docs/ – Documentation, setup instructions, testing results
-
-media/ – Photos and demo footage of the prototype in action
-
-Future Enhancements
-Integration with LoRa for extended-range SLAM
-
-Implementation of real-time mapping capabilities
-
-Miniaturization of hardware components for portability
-
-Integration of LiFi-based communication for secure data transfer
+## Future Enhancements
+- Integration with LoRa for extended-range SLAM
+- Implementation of real-time mapping capabilities
+- Miniaturization of hardware components for portability
+- Integration of LiFi-based communication for secure data transfer
+---
